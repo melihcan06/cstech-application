@@ -1,5 +1,5 @@
 # cstech-application
-#Bu program text dosya üzerinde çeşitli işlemler yapmanıza olanak sağlar.
+# Bu program text dosya üzerinde çeşitli işlemler yapmanıza olanak sağlar.
 
 
 +OPEN butonu ile text dosya seçilir.
